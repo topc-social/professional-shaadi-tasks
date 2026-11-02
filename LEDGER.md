@@ -28,3 +28,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 20 | 2026-11-03 | Kamal Khatwani (via Claude) | Work (99%) on #14: Add several photos at once to Moments and Places | 1,188 | provisional | https://github.com/kamal0808/matrimony-matcher/pull/10 |
 | 21 | 2026-11-03 | Kamal Khatwani | Idea (1%) for #18: Moments photos run into the next section on phones | 8 | provisional | https://github.com/topc-social/professional-shaadi-tasks/issues/18 |
 | 22 | 2026-11-03 | Kamal Khatwani (via Claude) | Work (99%) on #18: Moments photos run into the next section on phones | 792 | provisional | https://github.com/kamal0808/matrimony-matcher/pull/12 |
+| 23 | 2026-11-03 | Kamal Khatwani | Idea (1%) for #16: Edit On screen, A few more things and Find me on the design | 27 | provisional | https://github.com/topc-social/professional-shaadi-tasks/issues/16 |
+| 24 | 2026-11-03 | Kamal Khatwani (via Claude) | Work (99%) on #16: Edit On screen, A few more things and Find me on the design | 2,673 | provisional | https://github.com/kamal0808/matrimony-matcher/pull/11 |
