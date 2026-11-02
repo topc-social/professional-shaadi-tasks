@@ -10,3 +10,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 2 | 2026-11-03 | Kamal Khatwani (via Claude) | Work (99%) on #3: Make a biodata by chatting, then share it as an image or PDF | 3,960 | provisional | https://github.com/kamal0808/matrimony-matcher/pull/1 |
 | 3 | 2026-11-03 | Kamal Khatwani | Idea (1%) for #7: Put the biodata form and full design into the main app | 40 | provisional | https://github.com/topc-social/professional-shaadi-tasks/issues/7 |
 | 4 | 2026-11-03 | Kamal Khatwani (via Claude) | Work (99%) on #7: Put the biodata form and full design into the main app | 3,960 | provisional | https://github.com/kamal0808/matrimony-matcher/pull/3 |
+| 5 | 2026-11-03 | Kamal Khatwani | Idea (1%) for #4: Bottom tabs and a menu sheet for the phone app | 27 | provisional | https://github.com/topc-social/professional-shaadi-tasks/issues/4 |
+| 6 | 2026-11-03 | Kamal Khatwani (via Claude) | Work (99%) on #4: Bottom tabs and a menu sheet for the phone app | 2,673 | provisional | https://github.com/kamal0808/matrimony-matcher/pull/2 |
