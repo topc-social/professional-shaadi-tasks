@@ -36,3 +36,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 28 | 2026-11-03 | Kamal Khatwani (via Claude) | Work (99%) on #19: Make the app ready to publish: contacts by email, link preview, privacy lines | 3,960 | provisional | https://github.com/kamal0808/matrimony-matcher/pull/14 |
 | 29 | 2026-11-03 | Kamal Khatwani | Idea (1%) for #21: Free downloads until a payment link is set | 8 | provisional | https://github.com/topc-social/professional-shaadi-tasks/issues/21 |
 | 30 | 2026-11-03 | Kamal Khatwani (via Claude) | Work (99%) on #21: Free downloads until a payment link is set | 792 | provisional | https://github.com/kamal0808/matrimony-matcher/pull/15 |
+| 31 | 2026-11-14 | Kamal Khatwani | Idea (1%) for #26: The app signs you in with Google and shows who you are | 8 | provisional | https://github.com/topc-social/professional-shaadi-tasks/issues/26 |
+| 32 | 2026-11-14 | Kamal Khatwani (via Claude) | Work (99%) on #26: The app signs you in with Google and shows who you are | 792 | provisional | https://github.com/topc-social/professional-shaadi-tasks/issues/26 |
