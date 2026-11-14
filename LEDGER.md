@@ -44,3 +44,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 36 | 2026-11-14 | Kamal Khatwani (via Claude) | Work (99%) on #27: Your biodatas are saved to your account and open on any phone | 2,673 | provisional | https://github.com/topc-social/professional-shaadi-tasks/issues/27 |
 | 37 | 2026-11-14 | Kamal Khatwani | Idea (1%) for #28: Simple app navigation: Profile is the account, sign-in is where you need it | 27 | provisional | https://github.com/topc-social/professional-shaadi-tasks/issues/28 |
 | 38 | 2026-11-14 | Kamal Khatwani (via Claude) | Work (99%) on #28: Simple app navigation: Profile is the account, sign-in is where you need it | 2,673 | provisional | https://github.com/topc-social/professional-shaadi-tasks/issues/28 |
+| 39 | 2026-11-14 | Kamal Khatwani | Idea (1%) for #30: A photo wall and brand logos on the biodata | 18 | provisional | https://github.com/topc-social/professional-shaadi-tasks/issues/30 |
+| 40 | 2026-11-14 | Kamal Khatwani (via Claude) | Work (99%) on #30: A photo wall and brand logos on the biodata | 1,782 | provisional | https://github.com/topc-social/professional-shaadi-tasks/issues/30 |
