@@ -72,3 +72,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 64 | 2026-11-21 | Kamal Khatwani (via Claude) | Work (99%) on #49: Sort a pile of biodatas into a shortlist (mock screen) | 2,673 | provisional | https://github.com/topc-social/professional-shaadi-tasks/issues/49 |
 | 65 | 2026-11-21 | Kamal Khatwani | Idea (1%) for #50: Sort a pile of biodatas into a shortlist, for real | 90 | provisional | https://github.com/topc-social/professional-shaadi-tasks/issues/50 |
 | 66 | 2026-11-21 | Kamal Khatwani (via Claude) | Work (99%) on #50: Sort a pile of biodatas into a shortlist, for real | 8,910 | provisional | https://github.com/topc-social/professional-shaadi-tasks/issues/50 |
+| 67 | 2026-11-21 | Kamal Khatwani | Idea (1%) for #51: Sort hides your own biodata and folds repeat copies into one | 12 | provisional | https://github.com/topc-social/professional-shaadi-tasks/issues/51 |
+| 68 | 2026-11-21 | Kamal Khatwani (via Claude) | Work (99%) on #51: Sort hides your own biodata and folds repeat copies into one | 1,188 | provisional | https://github.com/topc-social/professional-shaadi-tasks/issues/51 |
